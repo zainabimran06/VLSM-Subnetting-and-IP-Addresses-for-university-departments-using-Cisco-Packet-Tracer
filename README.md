@@ -103,7 +103,7 @@ Report Includes
 
 
 Author
-[Zainab Imran]
+Zainab Imran
 School of Systems and Technology
 University of Management & Technology (UMT)
 
